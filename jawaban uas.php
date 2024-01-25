@@ -1,3 +1,5 @@
+nama:Ardianto
+NIM:20220801342
 // jawaban no 1//
 login terminal, beri perintah
 cd pbo
